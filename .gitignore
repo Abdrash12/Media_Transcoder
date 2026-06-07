@@ -1,0 +1,19 @@
+# CMake & Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+
+# Executables & Binaries
+*.exe
+*.obj
+*.o
+*.dll
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific VS Code settings (optional but recommended)
+.vscode/
